@@ -1,0 +1,254 @@
+
+#BCC
+
+music = {
+	name = "Big_stone_hit_the_chest"
+	file = "Big_stone_hit_the_chest.ogg"
+	volume = 1
+}
+music = {
+	name = "Qinhuangdao"
+	file = "Qinhuangdao.ogg"
+	volume = 1
+}
+music = {
+	name = "One_hundred_thousand_hippies"
+	file = "One_hundred_thousand_hippies.ogg"
+	volume = 1
+}
+music = {
+	name = "Train"
+	file = "Train.ogg"
+	volume = 1
+}
+music = {
+	name = "Love_Song_1980"
+	file = "Love_Song_1990.ogg"
+	volume = 1
+}
+music = {
+	name = "Love_Song_1990"
+	file = "Love_Song_1990.ogg"
+	volume = 1
+}
+music = {
+	name = "Love_Song_2000"
+	file = "Love_Song_2000.ogg"
+	volume = 1
+}
+music = {
+	name = "Seaside_Flowers"
+	file = "Seaside_Flowers.ogg"
+	volume = 1
+}
+music = {
+	name = "The_Long_March"
+	file = "The_Long_March.ogg"
+	volume = 1
+}
+music = {
+	name = "Pearl_of_the_Orient"
+	file = "Pearl_of_the_Orient.ogg"
+	volume = 1
+}
+music = {
+	name = "Your_appearance"
+	file = "Your_appearance.ogg"
+	volume = 1
+}
+music = {
+	name = "The_Story_of_Time"
+	file = "The_Story_of_Time.ogg"
+	volume = 1
+}
+music = {
+	name = "Zhi_Hu_Zhe_Ye"
+	file = "Zhi_Hu_Zhe_Ye.ogg"
+	volume = 1
+}
+music = {
+	name = "Small_Town_Lu_Gang"
+	file = "Small_Town_Lu_Gang.ogg"
+	volume = 1
+}
+music = {
+	name = "Rhythm_of_Youth_2000"
+	file = "Rhythm_of_Youth_2000.ogg"
+	volume = 1
+}
+music = {
+	name = "Han_people"
+	file = "Han_people.ogg"
+	volume = 1
+}
+music = {
+	name = "The_Blue_Lotus"
+	file = "The_Blue_Lotus.ogg"
+	volume = 1
+}
+music = {
+	name = "Flourishing_Life"
+	file = "Flourishing_Life.ogg"
+	volume = 1
+}
+music = {
+	name = "A_Brave_Heart"
+	file = "A_Brave_Heart.ogg"
+	volume = 1
+}
+music = {
+	name = "Fly_higher"
+	file = "Fly_higher.ogg"
+	volume = 1
+}
+music = {
+	name = "Vast_and_boundless_sky"
+	file = "Vast_and_boundless_sky.ogg"
+	volume = 1
+}
+music = {
+	name = "Gray_trajectory"
+	file = "Gray_trajectory.ogg"
+	volume = 1
+}
+music = {
+	name = "Bun_gan_ba_loeng"
+	file = "Bun_gan_ba_loeng.ogg"
+	volume = 1
+}
+music = {
+	name = "Cold_Rainy_Night"
+	file = "Cold_Rainy_Night.ogg"
+	volume = 1
+}
+music = {
+	name = "The_Golden_Years"
+	file = "The_Golden_Years.ogg"
+	volume = 1
+}
+music = {
+	name = "Amani"
+	file = "Amani.ogg"
+	volume = 1
+}
+music = {
+	name = "I_believe"
+	file = "I_believe.ogg"
+	volume = 1
+}
+music = {
+	name = "Gadamerine_Symphony_Poem"
+	file = "Gadamerine_Symphony_Poem.ogg"
+	volume = 1
+}
+music = {
+	name = "Erquan_Yingyue"
+	file = "Erquan_Yingyue.ogg"
+	volume = 1
+}
+music = {
+	name = "Eastern_Red"
+	file = "Eastern_Red.ogg"
+	volume = 1
+}
+music = {
+	name = "Songs_and_smiles"
+	file = "Songs_and_smiles.ogg"
+	volume = 1
+}
+music = {
+	name = "Spring_Festival_Overture"
+	file = "Spring_Festival_Overture.ogg"
+	volume = 1
+}
+music = {
+	name = "Liang_Zhu"
+	file = "Liang_Zhu.ogg"
+	volume = 1.5
+}
+music = {
+	name = "First_Xinjiang_Dance_Music"
+	file = "First_Xinjiang_Dance_Music.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Internationale_CHI"
+	file = "Internationale_CHI.ogg"
+	volume = 1
+}
+music = {
+	name = "Paradise"
+	file = "Paradise.ogg"
+	volume = 1
+}
+music = {
+	name = "A_Dream_Return_to_the_Tang_Dynasty"
+	file = "A_Dream_Return_to_the_Tang_Dynasty.ogg"
+	volume = 1
+}
+music = {
+	name = "Greater_China"
+	file = "Greater_China.ogg"
+	volume = 1
+}
+music = {
+	name = "Descendants_of_the_Dragon"
+	file = "Descendants_of_the_Dragon.ogg"
+	volume = 1
+}
+music = {
+	name = "West_of_Yangguan"
+	file = "West_of_Yangguan.ogg"
+	volume = 1
+}
+music = {
+	name = "The_first_snowfall_of_2002"
+	file = "The_first_snowfall_of_2002.ogg"
+	volume = 1
+}
+music = {
+	name = "Find_yourself"
+	file = "Find_yourself.ogg"
+	volume = 1
+}
+music = {
+	name = "Oh_Be_good"
+	file = "Oh_Be_good.ogg"
+	volume = 1
+}
+music = {
+	name = "Rock_Music_on_the_New_Long_March_Road"
+	file = "Rock_Music_on_the_New_Long_March_Road.ogg"
+	volume = 1
+}
+music = {
+	name = "Wander_through_life"
+	file = "Wander_through_life.ogg"
+	volume = 1
+}
+music = {
+	name = "I_only_care_about_you"
+	file = "I_only_care_about_you.ogg"
+	volume = 1
+}
+music = {
+	name = "Not_know_where_to_put_oneself"
+	file = "Not_know_where_to_put_oneself.ogg"
+	volume = 1
+}
+music = {
+	name = "The_best_buddy"
+	file = "The_best_buddy.ogg"
+	volume = 1
+}
+music = {
+	name = "Sunflower"
+	file = "Sunflower.ogg"
+	volume = 1
+}
+music = {
+	name = "Sailor"
+	file = "Sailor.ogg"
+	volume = 1
+}
