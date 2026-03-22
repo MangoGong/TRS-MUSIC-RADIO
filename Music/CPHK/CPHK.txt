@@ -2,15 +2,6 @@
 music_station = "CPHK"
 
 music = {
-	song = "Socialism_is_great"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-music = {
 	song = "Internationale_PRJ"
 	chance = {
 		modifier = {
@@ -61,7 +52,7 @@ music = {
 }
 
 music = {
-	song = "Navigation_at_sea_depends_on_the_helmsman"
+	song = "Socialism_is_great"
 	chance = {
 		modifier = {
 			factor = 1

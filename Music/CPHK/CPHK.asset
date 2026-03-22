@@ -2,11 +2,6 @@
 #CPHK
 
 music = {
-	name = "Socialism_is_great"
-	file = "Socialism_is_great.ogg"
-	volume = 1
-}
-music = {
 	name = "Internationale_PRJ"
 	file = "Internationale_PRJ.ogg"
 	volume = 1
@@ -37,8 +32,8 @@ music = {
 	volume = 1
 }
 music = {
-	name = "Navigation_at_sea_depends_on_the_helmsman"
-	file = "Navigation_at_sea_depends_on_the_helmsman.ogg"
+	name = "Socialism_is_great"
+	file = "Socialism_is_great.ogg"
 	volume = 1
 }
 music = {

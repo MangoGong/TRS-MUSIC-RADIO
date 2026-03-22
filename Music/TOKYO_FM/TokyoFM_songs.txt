@@ -138,13 +138,58 @@ music = {
 	}
 }
 music = {
-	song = "Recalling_the_Past"
+	song = "Red_soldiers_poem"
 	chance = {
 		modifier = {
 			factor = 1
 		}		
 	}
 }
+music = {
+	song = "She_was_a_revolutionary"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Flow_of_wealth"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "The_crowned_monarch_without_a_crown"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "The_Real_Folk_Blues_HDN"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Waiting_for_the sunset"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
 music = {
 	song = "The_Wind_Corridor"
 	chance = {
@@ -154,12 +199,22 @@ music = {
 	}
 }
 
+music = {
+	song = "Recalling_the_Past"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
 
-
-
-
-
-
-
+music = {
+	song = "BEGINNINGS"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
 
 

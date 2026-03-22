@@ -77,15 +77,58 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "Recalling_the_Past"
-	file = "Recalling_the_Past.ogg"
+	name = "Red_soldiers_poem"
+	file = "Red_soldiers_poem.ogg"
 	volume = 0.65
 }
+music = {
+	name = "She_was_a_revolutionary"
+	file = "She_was_a_revolutionary.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Flow_of_wealth"
+	file = "Flow_of_wealth.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "The_crowned_monarch_without_a_crown"
+	file = "The_crowned_monarch_without_a_crown.ogg"
+	volume = 0.65
+}
+
+
+music = {
+	name = "The_Real_Folk_Blues_HDN"
+	file = "The_Real_Folk_Blues_HDN.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Waiting_for_the sunset"
+	file = "Waiting_for_the sunset.ogg"
+	volume = 0.65
+}
+
+
 music = {
 	name = "The_Wind_Corridor"
 	file = "The_Wind_Corridor.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Recalling_the_Past"
+	file = "Recalling_the_Past.ogg"
+	volume = 0.65
+}
+music = {
+	name = "BEGINNINGS"
+	file = "BEGINNINGS.ogg"
+	volume = 0.65
+}
+
 
 
 
