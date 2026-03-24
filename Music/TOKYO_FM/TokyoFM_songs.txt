@@ -226,4 +226,22 @@ music = {
 	}
 }
 
+music = {
+	song = "Gin_no_Ryu_no_Se_ni_Notte"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Eien_no_Uso_o_Tsuitekure"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
 

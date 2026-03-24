@@ -1,16 +1,6 @@
 #JapanUrban
 
 music = {
-	name = "Gin_no_Ryu_no_Se_ni_Notte"
-	file = "Gin_no_Ryu_no_Se_ni_Notte.ogg"
-	volume = 1
-}
-music = {
-	name = "Eien_no_Uso_o_Tsuitekure"
-	file = "Eien_no_Uso_o_Tsuitekure.ogg"
-	volume = 1
-}
-music = {
 	name = "Yuki_no_Hana"
 	file = "Yuki_no_Hana.ogg"
 	volume = 1
