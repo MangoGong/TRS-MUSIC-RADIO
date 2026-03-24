@@ -1,0 +1,72 @@
+#JapanUrban
+
+music = {
+	name = "Gin_no_Ryu_no_Se_ni_Notte"
+	file = "Gin_no_Ryu_no_Se_ni_Notte.ogg"
+	volume = 1
+}
+music = {
+	name = "Eien_no_Uso_o_Tsuitekure"
+	file = "Eien_no_Uso_o_Tsuitekure.ogg"
+	volume = 1
+}
+music = {
+	name = "Yuki_no_Hana"
+	file = "Yuki_no_Hana.ogg"
+	volume = 1
+}
+music = {
+	name = "OH_NO_OH_YES"
+	file = "OH_NO_OH_YES.ogg"
+	volume = 1
+}
+music = {
+	name = "Shoujo_A"
+	file = "Shoujo_A.ogg"
+	volume = 1
+}
+music = {
+	name = "Aka_no_Enameru"
+	file = "Aka_no_Enameru.ogg"
+	volume = 1
+}
+music = {
+	name = "Kagerou"
+	file = "Kagerou.ogg"
+	volume = 1
+}
+music = {
+	name = "Automatic"
+	file = "Automatic.ogg"
+	volume = 1
+}
+music = {
+	name = "First_Love"
+	file = "First_Love.ogg"
+	volume = 1
+}
+music = {
+	name = "For_You"
+	file = "For_You.ogg"
+	volume = 1
+}
+music = {
+	name = "Jody"
+	file = "Jody.ogg"
+	volume = 1
+}
+music = {
+	name = "Toki_yo"
+	file = "Toki_yo.ogg"
+	volume = 1
+}
+music = {
+	name = "Night_Cruising"
+	file = "Night_Cruising.ogg"
+	volume = 1
+}
+music = {
+	name = "SUMMER_EYES"
+	file = "SUMMER_EYES.ogg"
+	volume = 1
+}
